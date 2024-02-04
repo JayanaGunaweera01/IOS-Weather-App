@@ -10,7 +10,7 @@
 
 ## Overview
 
-This is a weather detection app with tourist destinations application created using SwiftUI and OpenWeather APIs.Developed as the coursework of MODULE: (2023) 6COSC021C.1 Mobile Native Application Development at University of Westminster,UK using a mac-in-cloud.
+This is a weather detection app with tourist destinations created using SwiftUI and OpenWeather APIs. Developed as the coursework of MODULE: (2023) 6COSC021C.1 Mobile Native Application Development at University of Westminster,UK using a mac-in-cloud.
 
 ## Getting Started
 
