@@ -29,10 +29,10 @@ This is a weather detection app with tourist destinations application created us
 
 2. Enter your OpenWeather API key:
 
-    Open the project in Xcode and navigate to the `WeatherService.swift` file. Replace `YOUR_API_KEY_HERE` with your actual OpenWeather API key.
+    Open the project in Xcode and navigate to the `ModelData.swift` file. Replace `ENTER_YOUR_API_KEY_HERE` with your actual OpenWeather API key.
 
     ```swift
-    static let apiKey = "YOUR_API_KEY_HERE"
+    private let apiKey = "ENTER_YOUR_API_KEY_HERE"
     ```
 
 3. Run the Xcode project:
