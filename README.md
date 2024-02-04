@@ -1,4 +1,4 @@
-# SwiftUI Tourist Destinations App with OpenWeather API
+# SwiftUI weather fetching app with tourist destinations
 
 <img src="https://github.com/JayanaGunaweera01/IOS-Weather-App/assets/79576139/3f26d6dd-5f85-44aa-863c-2ade1dc2b16e" width="185">
 
